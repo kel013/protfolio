@@ -2110,6 +2110,43 @@ a {
   background-color: #bbbbbb;
   overflow: hidden;
 }
+.cid-sTLL7OPfRU {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mira-v1-a-2000x2828.png");
+}
+.cid-sTLL7OPfRU .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sTLL7OPfRU .mbr-section-title,
+.cid-sTLL7OPfRU .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-sTLL7OPfRU .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-sTLMrixIgx {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/project-6-1-1920x1080.png");
+}
+.cid-sTLMrixIgx .row {
+  flex-direction: row-reverse;
+}
+.cid-sTLMrixIgx .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sTLMrixIgx .mbr-section-title,
+.cid-sTLMrixIgx .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-sTLMrixIgx .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
