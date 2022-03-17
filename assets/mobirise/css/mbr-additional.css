@@ -10,7 +10,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -2769,11 +2769,33 @@ a {
 .cid-sOJ6QaLXxH {
   background-image: url("../../../assets/images/ctin-484-489-screenshot3-ahyoung-kevin-wonderlandconfectionery-1-2000x1250.png");
 }
+.cid-sOJ6QaLXxH .mbr-section-title {
+  text-align: left;
+}
+.cid-sOJ6QaLXxH .mbr-text,
+.cid-sOJ6QaLXxH .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
 .cid-sTLuC28wwK {
   background-image: url("../../../assets/images/spooke-1098x693.png");
 }
+.cid-sTLuC28wwK .mbr-section-title {
+  text-align: left;
+}
+.cid-sTLuC28wwK .mbr-text,
+.cid-sTLuC28wwK .mbr-section-btn {
+  text-align: left;
+}
 .cid-sPmIalfpjc {
   background-image: url("../../../assets/images/fuj0ul-1920x1080.jpg");
+}
+.cid-sPmIalfpjc .mbr-section-title {
+  text-align: left;
+}
+.cid-sPmIalfpjc .mbr-text,
+.cid-sPmIalfpjc .mbr-section-btn {
+  text-align: left;
 }
 .cid-sYLk8bkYz8 {
   padding-top: 2rem;
