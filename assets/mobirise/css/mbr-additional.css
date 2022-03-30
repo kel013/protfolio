@@ -1132,6 +1132,9 @@ a {
     padding: 2rem;
   }
 }
+.cid-sTLL7OPfRU .mbr-section-subtitle {
+  text-align: left;
+}
 .cid-sTLMrixIgx {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1149,6 +1152,23 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sTLMrixIgx .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-t1wC3KNfsD {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/2022-03-29-18-42-32-trim-moment-1920x1080.jpg");
+}
+.cid-t1wC3KNfsD .video-wrapper iframe {
+  width: 100%;
+}
+.cid-t1wC3KNfsD .mbr-section-title,
+.cid-t1wC3KNfsD .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-t1wC3KNfsD .text-wrapper {
     padding: 2rem;
   }
 }
