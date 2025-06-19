@@ -2786,26 +2786,83 @@ a {
     left: -1rem;
   }
 }
-.cid-sOJ6QaLXxH {
+.cid-uOwGsEaEUh {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  background-image: url("../../../assets/images/space-star-citizen-images-4048584787-2000x1125.jpg");
+}
+.cid-uOwGsEaEUh .row {
+  flex-direction: row-reverse;
+}
+.cid-uOwGsEaEUh .video-wrapper iframe {
+  width: 100%;
+}
+.cid-uOwGsEaEUh .mbr-section-title,
+.cid-uOwGsEaEUh .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-uOwGsEaEUh .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-uOwGsEaEUh .mbr-section-title {
+  color: #fafafa;
+}
+.cid-uOwGsEaEUh .mbr-text {
+  color: #fafafa;
+}
+.cid-uOwGsEaEUh .mbr-section-subtitle {
+  color: #fafafa;
+}
+.cid-uOwBBbriZw {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
   background-image: url("../../../assets/images/ctin-484-489-screenshot3-ahyoung-kevin-wonderlandconfectionery-1-2000x1250.png");
 }
-.cid-sOJ6QaLXxH .mbr-section-title {
-  text-align: left;
+.cid-uOwBBbriZw .video-wrapper iframe {
+  width: 100%;
 }
-.cid-sOJ6QaLXxH .mbr-text,
-.cid-sOJ6QaLXxH .mbr-section-btn {
-  text-align: left;
+.cid-uOwBBbriZw .mbr-section-title,
+.cid-uOwBBbriZw .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-uOwBBbriZw .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-uOwBBbriZw .mbr-text {
+  color: #fafafa;
+}
+.cid-uOwBBbriZw .mbr-section-title {
+  color: #fafafa;
+}
+.cid-uOwBBbriZw .mbr-description {
+  text-align: center;
   color: #ffffff;
 }
-.cid-sTLuC28wwK {
+.cid-uOwER3PDzy {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
   background-image: url("../../../assets/images/spooke-1098x693.png");
 }
-.cid-sTLuC28wwK .mbr-section-title {
-  text-align: left;
+.cid-uOwER3PDzy .video-wrapper iframe {
+  width: 100%;
 }
-.cid-sTLuC28wwK .mbr-text,
-.cid-sTLuC28wwK .mbr-section-btn {
-  text-align: left;
+.cid-uOwER3PDzy .mbr-section-title,
+.cid-uOwER3PDzy .mbr-section-subtitle,
+.cid-uOwER3PDzy .mbr-text {
+  text-align: center;
+}
+.cid-uOwER3PDzy .mbr-section-title {
+  color: #ffffff;
+}
+.cid-uOwER3PDzy .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-uOwER3PDzy .mbr-text {
+  color: #ff9966;
 }
 .cid-sPmIalfpjc {
   background-image: url("../../../assets/images/fuj0ul-1920x1080.jpg");
@@ -4044,14 +4101,14 @@ a {
   width: 100%;
 }
 .cid-s48MCQYojq {
-  background-image: url("../../../assets/images/project-6-1-1920x1080.png");
+  background-image: url("../../../assets/images/background-1400x700.png");
 }
 .cid-s48MCQYojq .mbr-section-title {
   text-align: center;
 }
 .cid-s48MCQYojq .mbr-text,
 .cid-s48MCQYojq .mbr-section-btn {
-  color: #232323;
+  color: #000000;
   text-align: center;
 }
 @media (max-width: 991px) {
